@@ -1,0 +1,5 @@
+train: ../train/images  # required by ultralytics
+val: ../test/images  # use test images as 'val' split for evaluation
+
+nc: 13
+names: ['car', 'crosswalk', 'highway_entry', 'highway_exit', 'no_entry', 'onewayroad', 'parking', 'pedestrian', 'priority', 'roadblock', 'roundabout', 'stop', 'trafficlight']

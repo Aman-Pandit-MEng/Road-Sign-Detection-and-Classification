@@ -1,0 +1,5 @@
+train: ../traffic_sign/train/images
+val: ../traffic_sign/valid/images
+
+nc: 13
+names: ['car', 'crosswalk', 'highway_entry', 'highway_exit', 'no_entry', 'onewayroad', 'parking', 'pedestrian', 'priority', 'roadblock', 'roundabout', 'stop', 'trafficlight']
