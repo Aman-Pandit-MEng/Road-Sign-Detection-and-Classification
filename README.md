@@ -83,3 +83,7 @@ If you need, I can:
 
 ---
 Generated README for the `roadsign-detection` folder. Verify the CLI flags inside `traffic_sign/model/train.py` and `infer.py` before running commands.
+
+# Test data reference
+
+https://www.kaggle.com/code/arpitvaghela9210/sign-detection-for-bosch-future-mobility-challenge/input
